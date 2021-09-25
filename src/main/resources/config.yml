@@ -1,0 +1,13 @@
+bundle:
+  recipe-pattern: "SHS\nH H\nHHH"
+  materials:
+    S: STRING
+    H: RABBIT_HIDE
+sculk-sensor:
+  recipe-pattern: "ATA\nEWE\nDDD"
+  materials:
+    T: TWISTING_VINES
+    A: AMETHYST_SHARD
+    E: END_STONE
+    W: WITHER_SKELETON_SKULL
+    D: DEEPSLATE

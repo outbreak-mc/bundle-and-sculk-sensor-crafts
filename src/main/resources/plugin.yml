@@ -1,0 +1,4 @@
+name: BundleAndSculkSensorCrafts
+version: '${project.version}'
+main: com.feelinvoids.bundleandsculksensorcrafts.BundleAndSculkSensorCrafts
+api-version: 1.17
